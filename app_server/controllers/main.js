@@ -1,3 +1,5 @@
+
+
 /* GET Humepage*/
 
 const index = (req, res) => {

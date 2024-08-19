@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('trvlr:server');
+var debug = require('debug')('cs465-FullSTACK:server');
 var http = require('http');
 
 /**
