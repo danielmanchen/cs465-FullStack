@@ -1,4 +1,4 @@
-export const trips = [
+export const trips =
     [
     
         {
@@ -33,4 +33,3 @@ export const trips = [
             
         }
     ]
-]
